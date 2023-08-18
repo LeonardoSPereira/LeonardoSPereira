@@ -1,5 +1,5 @@
 # 👋 About Me:
-#### Hello there! My name is Leonardo and I'm current studying to be a Full-Stack developer
+#### Hello there! My name is Leonardo and I love to play games and to swim
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/leonardo.d.pereira.10/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardo.d.pereira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardospereira) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/leonardospereira) 
 
